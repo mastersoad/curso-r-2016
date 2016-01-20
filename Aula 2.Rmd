@@ -1,0 +1,16 @@
+---
+title: "Aula 2"
+author: "Curso R de verão 2016"
+date: "20 de janeiro de 2016"
+output: html_document
+---
+#TESTE
+
+```{a}
+
+ (1 + sqrt(5))/2
+
+mean(1:5) 
+
+```
+
